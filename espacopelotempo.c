@@ -24,7 +24,7 @@ int main() {
     espaco = calcular_espaco(velocidade, tempo, resposta_aceleracao, aceleracao);
 
     printf("\nA distância percorrida (S) é: %.2f\n", espaco);
-    printf("\nCriado por: Valentina Andrade de Pedro");
+    printf("\nCriado por: Marcelo Mendes");
 
     return 0;
 }
