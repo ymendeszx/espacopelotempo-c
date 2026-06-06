@@ -13,7 +13,7 @@ int main() {
     assert(calcular_espaco(40, 2, 1, 3) == 86.00);
    
     printf("Testes concluídos\n");
-    printf("Criado por: Valentina Andrade de Pedro\n");
+    printf("Criado por: Marcelo Mendes\n");
 
     return 0;
 }
